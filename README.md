@@ -1,2 +1,3 @@
 # hello-world
 First attempt at creating a repository 
+HELLO,Steve here I am learning PYTHON and SQL and it was suggested that I figure out GitHub too. SO HERE i am....
